@@ -14,8 +14,8 @@ description: "<h3>Hello, Cloud!</h3><h1>개발자가 되고 싶은 구름 위 �
 
 
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cloudarchitect.github.io" # the base hostname & protocol for your site
+baseurl: "/cloudarchitect" # the subpath of your site, e.g. /blog
+url: "https://samkookji77.github.io/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
