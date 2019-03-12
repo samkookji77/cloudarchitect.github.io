@@ -10,12 +10,12 @@ title: Cloud Architect Wannabe Developer
 email: samkookji77@gmail.com
 
 #write html inside the double quotes to display in jumbotron
-description: "<h3>Hello, Cloud world!</h3><h1>Cloud Architect Wannabe Developer</h1><h3>I Want to be Developer!</h3>I like Developer"
+description: "<h3>Hello, Cloud world!</h3><h1>Cloud Architect Wannabe Developer</h1><h3>I Want to be Developer!</h3>I Love Devops"
 
 
 
-baseurl: "/DevJournal" # the subpath of your site, e.g. /blog
-url: "http://hemangsk.github.io" # the base hostname & protocol for your site
+baseurl: "/cloudarchitect" # the subpath of your site, e.g. /blog
+url: "http://samkookji77.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
