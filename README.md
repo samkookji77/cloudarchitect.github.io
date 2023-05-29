@@ -7,7 +7,7 @@ If there's any issue you are facing in setting up DevJournal theme, I'm there fo
 
 ![alt-tag](https://farm8.staticflickr.com/7300/26895705412_d6365b9a14_o.png)
 
-
+__
 
 ![alt-tag](https://farm8.staticflickr.com/7370/26956762406_cbfa7a2139_o.png)
 
